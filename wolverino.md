@@ -32,9 +32,13 @@ All the resources are released under the [Apache License, Version 2][1].
 ## URL 
 
 http://enablingthefuture.org
+
 http://bitalino.com
+
 http://littlebits.cc
+
 https://beeverycreative.com
+
 https://www.android.com
 
 ## Other information
