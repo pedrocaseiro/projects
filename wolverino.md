@@ -27,7 +27,7 @@ To bring our proof-of-concept to life we will use littleBits, Android, BITalino 
 
 You can find our code at https://github.com/hugoslv/wolverino
 
-All the resources are released under the [GPLv3][1].
+All the resources are released under the [Apache License, Version 2][1].
 
 ## URL 
 
@@ -41,4 +41,4 @@ https://www.android.com
 
 The current limitations of Wolverino are the fact that it only uses a single muscle channel for input, which provides few degrees of freedom for control and the fact that it doesn't yet have an integrated form factor. We intend to solve these problems by using multiple input channels and creating a purpose-built hardware base.
 
-[1]: https://www.gnu.org/licenses/gpl-3.0.en.html
+[1]: https://www.apache.org/licenses/LICENSE-2.0
