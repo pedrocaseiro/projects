@@ -2,8 +2,7 @@
 
 ## Introduction
 
-We are building a TV remote with embedded Electrocardiogram(ECG) and Photoplethismography(PPG) sensors to measure your heart rate,
-oxigen saturation and blood pressure.
+We are building a TV remote with embedded Electrocardiogram(ECG) and Photoplethismography(PPG) sensors to measure your blood pressure, heart rate and oxigen saturation.
 
 ## Description
 
@@ -18,7 +17,7 @@ But why is this important?
 There is a disease called Heart failure (HF) which is considered one of the major public health problems of the 21st century. 
 One of the main ways to prevent this disease is by regularly measuring blood pressure and weight. With our remote we want to make
 it easier and less intrusive the way people monitor this disease.
-The audience
+The audience is basically everyone with more than 50 years old, but specially people diagnosed with hypertension or any other heart related disease.
 
 
 The technology used in this project includes:
@@ -33,30 +32,10 @@ SOFTWARE
 * SolidWorks (to draw 3D of remote controller)
 
 
-
-Write a description here including: 
-
- * What does it do
- * What's the audience 
- * What technology will you use 
-
 ## Team
 
  * Priscila Alves (https://pixels.camp/PriscilaAlves)
  * Carlos Carreiras (https://pixels.camp/capcarr)
  * Andre Lourenco (https://pixels.camp/alourenco)
- * Ricardo Nunes 
- * David Velez
-
-
-## URL 
-
-In case you have something online to show, please, share here your URL 
-
-## Other information
-
-In case you think there's more information about the project we should be aware of
-
-See this [example][1]
-
-[1]: nobull_bot.md
+ * Ricardo Nunes (https://pixels.camp/rnunes)
+ * David Velez (https://pixels.camp/davidemvelez)
