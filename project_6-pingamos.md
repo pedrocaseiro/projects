@@ -1,6 +1,4 @@
-# Project name
-
-Pingamos
+# Pingamos
 
 ## Introduction
 
