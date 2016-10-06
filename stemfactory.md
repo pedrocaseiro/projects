@@ -14,10 +14,7 @@ To accomplish StemFactory we used Python, HTML, CSS and Javascript.
 
 ## Team
 
-Cátia Bandeiras - https://pixels.camp/catiabandeiras
-Alexandre Carvalho - https://pixels.camp/ajscarvalho
-Teresa Alves - https://pixels.camp/trezalves
-Patrick Sardinha - https://pixels.camp/patrick.izigo
+
 
 ## Code repository
 
