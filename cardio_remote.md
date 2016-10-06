@@ -31,7 +31,7 @@ SOFTWARE
 * Python (back-end)
 * Websockets communication
 * HTML5, CSS and JS (front-end)
-* SolidWorks (to draw 3D of remote controller)
+* SOLIDWORKS (to draw 3D of remote controller)
 
 
 ## Team
