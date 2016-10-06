@@ -6,7 +6,7 @@ Wolverino is a multimodal plug & play controller for prosthetics and/or animatro
 
 ## Description
 
-Wolverino is a (relatively) low-cost battery powered device that can be attached to standard 3D printed prosthetic limbs or animatronic pieces to enable dynamic control based on user inputs. It has two modes on operation, namely "Interactive" and "Presets" mode. 
+Wolverino uses (relatively) low-cost battery powered devices that can be attached to standard 3D printed prosthetic limbs or animatronic pieces to enable dynamic control based on user inputs. It has two modes on operation, namely "Interactive" and "Presets" mode. 
 
 In "Interactive" mode, Wolverino provides interactive control of the prosthetics and/or animatronics piece by measuring signals from any surface muscle on the body and using them to trigger an action.
 
