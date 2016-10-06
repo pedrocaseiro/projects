@@ -25,7 +25,7 @@ function(enemies, powerups) {
 
 ## Team
 
- * Maria Margarida (pixels.camp/mariamargarida)
+ * Maria Margarida (https://pixels.camp/mariamargarida)
  * David Gomes (https://pixels.camp/davidgomes)
  * Miguel Duarte (https://pixels.camp/michel94)
  * Pedro Caseiro (https://pixels.camp/pedrocaseiro)
