@@ -1,4 +1,4 @@
-# Project name
+# BEETHEFIRST Batleship game
 
 ## Introduction
 
