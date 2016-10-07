@@ -2,34 +2,31 @@
 
 ## Introduction
 
-(Write a short project intro here, just 10/20 words)
+In this project 2 BEETHEFIRST printers will play battleship against each other.
 
 ## Description
 
-Write a description here including: 
+The current work intends to put 2 BEETHEFIRST printers playing battleship agains each other.
 
- * What does it do
- * What's the audience 
- * What technology will you use 
+The printers are controlled using a raspberry pi that controls the game moves.
+
+The raspberry pi randomly generates the ships mapping and each printer prints its own map and fleet.
+
+The raspberry py then randomly selects coordinates for each printer playing until one of the printer wins.
+
 
 ## Team
 
- * Name 1 (with Pixels Camp profile URL) 
- * Name 2 (with Pixels Camp profile URL)
- * ...
+ Marcos Gomes (https://pixels.camp/marcosfg)
+ Tiago Nunes (https://pixels.camp/TiagoNunesDev)
 
 ## Code repository
 
-This is not required, but if you want, you can share your project repo here 
+https://github.com/marcosfg/BEETHEFIRST_Battleship
 
 ## URL 
 
-In case you have something online to show, please, share here your URL 
+
 
 ## Other information
 
-In case you think there's more information about the project we should be aware of
-
-See this [example][1]
-
-[1]: nobull_bot.md
