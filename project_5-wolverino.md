@@ -18,7 +18,6 @@ To bring our proof-of-concept to life we will use littleBits, Android, BITalino 
 
 ## Team
 
- * Francisco Mendes
  * Hugo Silva https://pixels.camp/hugoslv
  * Paulo Pires https://pixels.camp/pires
  * Ricardo Pereira
@@ -43,6 +42,6 @@ https://www.android.com
 
 ## Other information
 
-The current limitations of Wolverino are the fact that it only uses a single muscle channel for input, which provides few degrees of freedom for control and the fact that it doesn't yet have an integrated form factor. Furthermore, the servo currently only sweeps about 140º due to hardware limitations. We intend to solve these problems by using multiple input channels and creating a purpose-built hardware base.
+The current limitations of Wolverino are the fact that it only uses a single muscle channel for input, which provides few degrees of freedom for control and the fact that it doesn't yet have an integrated form factor. Furthermore, the servo currently only sweeps about 140º due to hardware limitations. We intend to solve these problems after Pixels Camp by using multiple input channels and creating a purpose-built hardware base.
 
 [1]: https://www.apache.org/licenses/LICENSE-2.0
